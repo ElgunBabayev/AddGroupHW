@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.exe
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.deps.json
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.runtimeconfig.json
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.dll
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\bin\Debug\netcoreapp3.1\ConsoleAppHW.pdb
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.AssemblyInfo.cs
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.dll
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.pdb
+C:\Users\MSI\source\repos\ConsoleAppHW\ConsoleAppHW\obj\Debug\netcoreapp3.1\ConsoleAppHW.genruntimeconfig.cache
